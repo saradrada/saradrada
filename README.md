@@ -1,1 +1,2 @@
-<img src="https://github.com/saradrada/saradrada/assets/38886724/b0e252b9-66cd-4f4f-8a62-dfc0a5335eff" alt="hiring!" width="700"/>
+<img src="https://github.com/saradrada/saradrada/assets/38886724/edc77735-397b-4707-a80c-549b4872d11d" alt="hiring!"/>
+
