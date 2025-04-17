@@ -19,7 +19,6 @@ and always excited to build with kind, passionate humans 👩‍💻👨‍💻
 
 ![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saradrada&show_icons=true&theme=default&hide_rank=false&hide_title=false)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=saradrada&theme=default)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saradrada&layout=compact&theme=default&langs_count=8)
 
 ---
