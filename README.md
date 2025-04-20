@@ -16,12 +16,5 @@ and always excited to build with kind, passionate humans 👩‍💻👨‍💻
 ---
 
 ### 📈 GitHub Stats
-
-![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saradrada&show_icons=true&theme=default&hide_rank=false&hide_title=false)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=saradrada&theme=default)
----
 
-### 🤝 Let's Connect
-
-I'm always open to collaboration, feedback, or just a tech chat.  
-Feel free to explore my repos and see what I’ve been working on!
