@@ -11,10 +11,3 @@ Whether I'm prototyping at a hackathon ⚡ or fine-tuning a product for launch, 
 Curious mind 💭
 creative heart ❤️‍🔥
 and always excited to build with kind, passionate humans 👩‍💻👨‍💻
-
-
----
-
-### 📈 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=saradrada&theme=default)
-
